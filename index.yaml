@@ -3,11 +3,11 @@ entries:
   dataroaster-trino-gateway:
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2022-06-13T10:55:04.593568722Z"
+    created: "2022-06-13T11:39:16.858629468Z"
     description: dataroaster trino gateway
-    digest: 3d47aba1ba4529914097f1430f290f329888552a127d2fee1444382226a5436b
+    digest: 18f4dface88c7e460d2862a904cefa0d7b22d1476cbaf3b895ce6a09034b015c
     name: dataroaster-trino-gateway
     urls:
     - dataroaster-trino-gateway-v1.0.0.tgz
     version: v1.0.0
-generated: "2022-06-13T10:55:04.593049409Z"
+generated: "2022-06-13T11:39:16.857983659Z"
