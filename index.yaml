@@ -2,8 +2,24 @@ apiVersion: v1
 entries:
   dataroaster-trino-gateway:
   - apiVersion: v2
+    appVersion: v2.4.0
+    created: "2023-01-12T06:16:11.143725308Z"
+    dependencies:
+    - name: dataroastermysql
+      repository: https://cloudcheflabs.github.io/mysql-helm-repo/
+      version: v1.0.2
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.13.2
+    description: dataroaster trino gateway
+    digest: 024555d1fc92c5d019b6be456ef005f361ed24028e62802bb8fdeea9dfd2966e
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.6.0.tgz
+    version: v1.6.0
+  - apiVersion: v2
     appVersion: v2.3.0
-    created: "2022-12-21T11:43:49.09035332Z"
+    created: "2023-01-12T06:16:11.138089815Z"
     dependencies:
     - name: dataroastermysql
       repository: https://cloudcheflabs.github.io/mysql-helm-repo/
@@ -19,7 +35,7 @@ entries:
     version: v1.5.0
   - apiVersion: v2
     appVersion: v2.2.0
-    created: "2022-12-21T11:43:49.084451234Z"
+    created: "2023-01-12T06:16:11.130708548Z"
     dependencies:
     - name: dataroastermysql
       repository: https://cloudcheflabs.github.io/mysql-helm-repo/
@@ -35,7 +51,7 @@ entries:
     version: v1.4.0
   - apiVersion: v2
     appVersion: v2.1.0
-    created: "2022-12-21T11:43:49.079400971Z"
+    created: "2023-01-12T06:16:11.124616762Z"
     dependencies:
     - name: dataroastermysql
       repository: https://cloudcheflabs.github.io/mysql-helm-repo/
@@ -51,7 +67,7 @@ entries:
     version: v1.3.0
   - apiVersion: v2
     appVersion: v2.1.0
-    created: "2022-12-21T11:43:49.073141438Z"
+    created: "2023-01-12T06:16:11.117489977Z"
     dependencies:
     - name: dataroastermysql
       repository: https://cloudcheflabs.github.io/mysql-helm-repo/
@@ -67,7 +83,7 @@ entries:
     version: v1.2.0
   - apiVersion: v2
     appVersion: v2.0.1
-    created: "2022-12-21T11:43:49.067752643Z"
+    created: "2023-01-12T06:16:11.111064488Z"
     dependencies:
     - name: dataroastermysql
       repository: https://cloudcheflabs.github.io/mysql-helm-repo/
@@ -83,7 +99,7 @@ entries:
     version: v1.1.0
   - apiVersion: v2
     appVersion: v1.0.1
-    created: "2022-12-21T11:43:49.061622684Z"
+    created: "2023-01-12T06:16:11.103246833Z"
     description: dataroaster trino gateway
     digest: 7d94727becd7ff834550102a3222cc74e444f559b5cf2f8873080cf3ea24af66
     name: dataroaster-trino-gateway
@@ -92,7 +108,7 @@ entries:
     version: v1.0.3
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2022-12-21T11:43:49.061320433Z"
+    created: "2023-01-12T06:16:11.102487737Z"
     description: dataroaster trino gateway
     digest: be453e076381678bec2868dc141746772e8ff7d576203c20d58679453044f7e6
     name: dataroaster-trino-gateway
@@ -101,7 +117,7 @@ entries:
     version: v1.0.2
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2022-12-21T11:43:49.060987041Z"
+    created: "2023-01-12T06:16:11.101670638Z"
     description: dataroaster trino gateway
     digest: 995acdbdf03b5a965cb9970298d9ad8d56b641b2b1290fab873f031e160a0eea
     name: dataroaster-trino-gateway
@@ -110,11 +126,11 @@ entries:
     version: v1.0.1
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2022-12-21T11:43:49.060661595Z"
+    created: "2023-01-12T06:16:11.100791114Z"
     description: dataroaster trino gateway
     digest: 18f4dface88c7e460d2862a904cefa0d7b22d1476cbaf3b895ce6a09034b015c
     name: dataroaster-trino-gateway
     urls:
     - dataroaster-trino-gateway-v1.0.0.tgz
     version: v1.0.0
-generated: "2022-12-21T11:43:49.060147031Z"
+generated: "2023-01-12T06:16:11.099671724Z"
