@@ -1,5 +1,0 @@
-apiVersion: v2
-appVersion: "5.7"
-description: dataroaster mysql.
-name: dataroastermysql
-version: v1.0.2

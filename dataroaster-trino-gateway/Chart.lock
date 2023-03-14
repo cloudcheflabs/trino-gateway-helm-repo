@@ -1,9 +1,0 @@
-dependencies:
-- name: dataroastermysql
-  repository: https://cloudcheflabs.github.io/mysql-helm-repo/
-  version: v1.0.2
-- name: redis
-  repository: https://charts.bitnami.com/bitnami
-  version: 16.13.2
-digest: sha256:085314aaa0931319a83e6b82b0de8fbb6bf16275fc4e406d25b6a89056eb75a0
-generated: "2022-12-21T10:22:58.567349784Z"
