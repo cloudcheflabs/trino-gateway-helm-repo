@@ -1,0 +1,152 @@
+apiVersion: v1
+entries:
+  dataroaster-trino-gateway:
+  - apiVersion: v2
+    appVersion: v2.4.0
+    created: "2023-03-14T13:21:04.236443583Z"
+    dependencies:
+    - name: dataroastermysql
+      repository: https://cloudcheflabs.github.io/mysql-helm-repo/
+      version: v1.1.0
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.13.2
+    description: dataroaster trino gateway
+    digest: 46c2639aa5601bcbbd548351574f9c2d67d1c0d901c40f4279b70b5fd8e1145b
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.7.1.tgz
+    version: v1.7.1
+  - apiVersion: v2
+    appVersion: v2.4.0
+    created: "2023-03-14T13:21:04.231303641Z"
+    dependencies:
+    - name: dataroastermysql
+      repository: https://cloudcheflabs.github.io/mysql-helm-repo/
+      version: v1.0.2
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.13.2
+    description: dataroaster trino gateway
+    digest: 024555d1fc92c5d019b6be456ef005f361ed24028e62802bb8fdeea9dfd2966e
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.6.0.tgz
+    version: v1.6.0
+  - apiVersion: v2
+    appVersion: v2.3.0
+    created: "2023-03-14T13:21:04.226924799Z"
+    dependencies:
+    - name: dataroastermysql
+      repository: https://cloudcheflabs.github.io/mysql-helm-repo/
+      version: v1.0.2
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.13.2
+    description: dataroaster trino gateway
+    digest: aea930c8cd5a2a5b965af108eb520dd85a6e34831830308b8d65e43e532c172a
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.5.0.tgz
+    version: v1.5.0
+  - apiVersion: v2
+    appVersion: v2.2.0
+    created: "2023-03-14T13:21:04.221807179Z"
+    dependencies:
+    - name: dataroastermysql
+      repository: https://cloudcheflabs.github.io/mysql-helm-repo/
+      version: v1.0.2
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.13.2
+    description: dataroaster trino gateway
+    digest: 84701d81441ca48e7cf8e1047b25c1e5ce55a4b87949dcaecafb6b915d80034a
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.4.0.tgz
+    version: v1.4.0
+  - apiVersion: v2
+    appVersion: v2.1.0
+    created: "2023-03-14T13:21:04.217432085Z"
+    dependencies:
+    - name: dataroastermysql
+      repository: https://cloudcheflabs.github.io/mysql-helm-repo/
+      version: v1.0.2
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.13.2
+    description: dataroaster trino gateway
+    digest: 97a99dc69226c759c3713017a5fdfb9cfdcc0ee4b78c1941ba467b8fe6c50f2d
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.3.0.tgz
+    version: v1.3.0
+  - apiVersion: v2
+    appVersion: v2.1.0
+    created: "2023-03-14T13:21:04.211845537Z"
+    dependencies:
+    - name: dataroastermysql
+      repository: https://cloudcheflabs.github.io/mysql-helm-repo/
+      version: v1.0.2
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.13.2
+    description: dataroaster trino gateway
+    digest: b990ef7a4b40199eaf3eeee22330a51ef7a66cf3d537f9d4faf31e354661bdc1
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.2.0.tgz
+    version: v1.2.0
+  - apiVersion: v2
+    appVersion: v2.0.1
+    created: "2023-03-14T13:21:04.206867571Z"
+    dependencies:
+    - name: dataroastermysql
+      repository: https://cloudcheflabs.github.io/mysql-helm-repo/
+      version: v1.0.2
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.13.2
+    description: dataroaster trino gateway
+    digest: 62af15121efd3621542e668c1560b90993b5d8f076a875745d61c832eabb4efd
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.1.0.tgz
+    version: v1.1.0
+  - apiVersion: v2
+    appVersion: v1.0.1
+    created: "2023-03-14T13:21:04.201819191Z"
+    description: dataroaster trino gateway
+    digest: 7d94727becd7ff834550102a3222cc74e444f559b5cf2f8873080cf3ea24af66
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.0.3.tgz
+    version: v1.0.3
+  - apiVersion: v2
+    appVersion: v1.0.0
+    created: "2023-03-14T13:21:04.201529763Z"
+    description: dataroaster trino gateway
+    digest: be453e076381678bec2868dc141746772e8ff7d576203c20d58679453044f7e6
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.0.2.tgz
+    version: v1.0.2
+  - apiVersion: v2
+    appVersion: v1.0.0
+    created: "2023-03-14T13:21:04.201225157Z"
+    description: dataroaster trino gateway
+    digest: 995acdbdf03b5a965cb9970298d9ad8d56b641b2b1290fab873f031e160a0eea
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.0.1.tgz
+    version: v1.0.1
+  - apiVersion: v2
+    appVersion: v1.0.0
+    created: "2023-03-14T13:21:04.200933124Z"
+    description: dataroaster trino gateway
+    digest: 18f4dface88c7e460d2862a904cefa0d7b22d1476cbaf3b895ce6a09034b015c
+    name: dataroaster-trino-gateway
+    urls:
+    - dataroaster-trino-gateway-v1.0.0.tgz
+    version: v1.0.0
+generated: "2023-03-14T13:21:04.200500746Z"
